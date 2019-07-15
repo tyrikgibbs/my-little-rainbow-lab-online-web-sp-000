@@ -1,5 +1,5 @@
 div #red {
-  border-top-color: #f00
+  border-top-color: #f00;
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
