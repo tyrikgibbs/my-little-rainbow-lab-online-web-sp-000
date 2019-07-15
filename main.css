@@ -1,3 +1,6 @@
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
